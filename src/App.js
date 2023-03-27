@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
-import { Route, Routes, useParams } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import { Main } from "./pages/Main";
 import { CharacterPage } from "./pages/CharacterPage";
 
